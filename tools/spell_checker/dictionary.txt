@@ -205,6 +205,8 @@ avium
 avy
 axeman
 axolotl
+ayran
+ayrans
 azide
 b
 babiues
@@ -993,6 +995,7 @@ fightin
 filenames
 fileset
 filmstrip
+filo
 finial
 finned
 fireboots
@@ -1430,6 +1433,7 @@ irritants
 isable
 isassembled
 isk
+iskender
 isopod
 issi
 issuer
@@ -1500,6 +1504,7 @@ kippah
 kirpan
 kisskiss
 kittel
+kiymali
 klompen
 km
 knacks
@@ -1544,6 +1549,7 @@ labbit
 labrys
 lackadaisically
 lactobacillus
+lahmacun
 lajatang
 lambeosaurus
 lamellae
@@ -1665,6 +1671,7 @@ manfriendwich
 manhack
 manhacks
 manoomin
+manti
 manuc
 manwich
 mapgen
@@ -1701,6 +1708,7 @@ megalith
 megastore
 membranous
 mendacium
+menemen
 menorah
 mesenterium
 meshwork
@@ -2056,6 +2064,7 @@ peccary
 pecial
 pedipalps
 peice
+pekmez
 pelmeni
 pemmican
 penalizes
@@ -2438,6 +2447,7 @@ sadisticly
 safemode
 safewords
 sagely
+salca
 salicylate
 sallet
 salsify
@@ -2452,6 +2462,7 @@ sapience
 saproling
 saprolings
 sarahsaurus
+sarma
 sarracenia
 satirizes
 saunters
