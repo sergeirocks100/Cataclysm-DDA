@@ -30,7 +30,8 @@
         [ "chem_methanol", 1 ],
         [ "ether", 1 ],
         [ "denat_alcohol", 1 ],
-        [ "avgas", 1 ]
+        [ "avgas", 1 ],
+		[ "methed_alcohol", 1 ]
       ]
     ]
   },
